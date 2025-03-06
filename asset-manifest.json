@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/daniyal-portfolio/static/css/main.41507bfd.css",
+    "main.js": "/daniyal-portfolio/static/js/main.f1115b01.js",
+    "index.html": "/daniyal-portfolio/index.html",
+    "static/media/blob-haikei.svg": "/daniyal-portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.41507bfd.css.map": "/daniyal-portfolio/static/css/main.41507bfd.css.map",
+    "main.f1115b01.js.map": "/daniyal-portfolio/static/js/main.f1115b01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41507bfd.css",
+    "static/js/main.f1115b01.js"
+  ]
+}
