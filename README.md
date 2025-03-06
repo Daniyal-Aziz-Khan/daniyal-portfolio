@@ -1,7 +1,5 @@
-<!-- # Daniyal-Aziz-Khan.github.io -->
-
 **Portfolio**
-Live Preview - [Click Here](https://Daniyal-Aziz-Khan.github.io/)
+Live Preview - [Click Here](https://Daniyal-Aziz-Khan.github.io/daniyal-portfolio/)
 
 <br/>
 <div align="center">
@@ -28,15 +26,11 @@ Live Preview - [Click Here](https://Daniyal-Aziz-Khan.github.io/)
 
 # Deploy with Github Pages
 
-1. Name your fork `<your-github-username>.github.io`
-2. Edit the `homepage` property on your `package.json` file
+1. Edit the `homepage` property on your `package.json` file
 
-   `"homepage": "http://<your-github-username>.github.io/"`
+   `"homepage": "http://<your-github-username>.github.io/<your-repository-name>"`
 
+2. Commit and push your code to your github repository.
 3. Deploy the app
 
    `npm run deploy`
-
-## Show your support
-
-Give a ⭐ if you like this website!

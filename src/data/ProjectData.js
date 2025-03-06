@@ -2,7 +2,7 @@
 
 export const ProjectList = [
   {
-    img: "/zuptu.webp",
+    img: `${process.env.PUBLIC_URL}/zuptu.png`,
     title: "Zuptu",
     description: `I contributed as a full-stack developer for two years to this startup project. 
       Zuptu is an intuitive and powerful project management tool designed to enhance 
@@ -12,7 +12,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/techValet.png",
+    img: `${process.env.PUBLIC_URL}/techValet.png`,
     title: "Tech Valet",
     description: `Tech Valet is a dynamic platform that connects elderly clients with highly 
       skilled IT professionals, offering seamless technical assistance and support.`,
@@ -28,10 +28,9 @@ export const ProjectList = [
     ],
     github_url: "",
     demo_url: "",
-    //demo_url: "https://tech-valet-project.vercel.app/",
   },
   {
-    img: "/hrm.webp",
+    img: `${process.env.PUBLIC_URL}/hrm.webp`,
     title: "HRM System",
     description: `A comprehensive Human Resource Management (HRM) system designed to streamline 
       employee data management, optimize HR workflows, and enhance organizational efficiency.`,
@@ -47,24 +46,22 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/teachsafer.png",
+    img: `${process.env.PUBLIC_URL}/teachsafer.png`,
     title: "Teach Safer",
     description: `An innovative e-learning platform that enables coaches to purchase course 
       registrations and seamlessly assign them to learners, facilitating structured education.`,
     tech_stack: ["ReactJs", ".Net Core", "Stripe", "MSSQL"],
     github_url: "",
     demo_url: "",
-    //demo_url: "https://portal.teachsafer.com/home",
   },
   {
-    img: "/jlifleetvehicle.png",
+    img: `${process.env.PUBLIC_URL}/jlifleetvehicle.png`,
     title: "JLI Fleet Vehicles",
     description: `A fleet management platform designed to efficiently track vehicle records 
       and generate detailed reports, optimizing operational oversight.`,
     tech_stack: [".Net Core", "React", "MSSQL", "React-Bootstrap"],
     github_url: "",
     demo_url: "",
-    //demo_url: "http://nodlayslahore-001-site45.atempurl.com",
   },
 ];
 

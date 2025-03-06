@@ -65,15 +65,11 @@ function Hero() {
                     1000,
                     "A Passionate Coder.",
                     1000,
-                    "An AI & Cloud Learner.",
-                    1000,
                     "A Web App Builder.",
                     1000,
                     "A Performance Tuner.",
                     1000,
                     "A .NET API Architect.",
-                    1000,
-                    "A React Component Master.",
                     1000,
                     "An Azure Explorer.",
                     1000,
@@ -101,7 +97,10 @@ function Hero() {
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
               {/* <Image src="/man-svgrepo-com.svg" alt="Daniyal Khan" /> */}
-              <Image src="/Daniyal.png" alt="Daniyal Khan" />
+              <Image
+                src={`${process.env.PUBLIC_URL}/Daniyal.png`}
+                alt="Daniyal Khan"
+              />
             </ScrollAnimation>
           </HeroRight>
         </HeroWrapper>
