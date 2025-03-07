@@ -109,7 +109,10 @@ function Hero() {
             <ScrollDown to="about" id="scrollDown">
               <ScrollLink>
                 Scroll down
-                <img src="/scroll-down.svg" alt="scroll-down" />
+                <img
+                  src={`${process.env.PUBLIC_URL}/scroll-down.svg`}
+                  alt="scroll-down"
+                />
               </ScrollLink>
             </ScrollDown>
           </ScrollAnimation>
