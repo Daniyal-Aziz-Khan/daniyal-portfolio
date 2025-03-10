@@ -100,10 +100,6 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
     name: "CSS",
   },
-  // {
-  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
-  //   name: "NextJs",
-  // },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
     name: "Typescript",
@@ -112,22 +108,18 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
   },
-  // {
-  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-  //   name: "React Native",
-  // },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
     name: "NodeJS",
   },
-  {
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbr9_FPP5arS9Oa8yJhMTKLKySje0JhmjhZKyEvGgPS0Av-mxLgKzIGbhkzIGf_5dAmGM&usqp=CAU",
-    name: "NextJS",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
-    name: "Firebase",
-  },
+  // {
+  //   img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbr9_FPP5arS9Oa8yJhMTKLKySje0JhmjhZKyEvGgPS0Av-mxLgKzIGbhkzIGf_5dAmGM&usqp=CAU",
+  //   name: "NextJS",
+  // },
+  // {
+  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
+  //   name: "Firebase",
+  // },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
     name: "MongoDB",
@@ -140,26 +132,6 @@ export const stackList = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ljgqeBd2jsSbcsfOh0eo78uJ3tqilLn2lhxO6ShqCcsUv7k8srSIvS-DHJVStlnyeb0&usqp=CAU",
     name: "Stripe",
   },
-  // {
-  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-  //   name: "Python",
-  // },
-  // {
-  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg",
-  //   name: "Flask",
-  // },
-  // {
-  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
-  //   name: "C",
-  // },
-  // {
-  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-  //   name: "Java",
-  // },
-  // {
-  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
-  //   name: "MySQL",
-  // },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
     name: "Bootstrap",
