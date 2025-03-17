@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/daniyal-portfolio/static/css/main.41507bfd.css",
-    "main.js": "/daniyal-portfolio/static/js/main.cf08f37b.js",
+    "main.css": "/daniyal-portfolio/static/css/main.4473e945.css",
+    "main.js": "/daniyal-portfolio/static/js/main.34cf828a.js",
+    "static/media/bootstrap-icons.woff?": "/daniyal-portfolio/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/daniyal-portfolio/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/daniyal-portfolio/index.html",
     "static/media/blob-haikei.svg": "/daniyal-portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
-    "main.41507bfd.css.map": "/daniyal-portfolio/static/css/main.41507bfd.css.map",
-    "main.cf08f37b.js.map": "/daniyal-portfolio/static/js/main.cf08f37b.js.map"
+    "main.4473e945.css.map": "/daniyal-portfolio/static/css/main.4473e945.css.map",
+    "main.34cf828a.js.map": "/daniyal-portfolio/static/js/main.34cf828a.js.map"
   },
   "entrypoints": [
-    "static/css/main.41507bfd.css",
-    "static/js/main.cf08f37b.js"
+    "static/css/main.4473e945.css",
+    "static/js/main.34cf828a.js"
   ]
 }
