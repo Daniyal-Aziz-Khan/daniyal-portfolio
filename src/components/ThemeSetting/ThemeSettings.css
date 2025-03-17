@@ -1,0 +1,28 @@
+:root {
+  --primary-light: #fff;
+  --primary-dark: #121212;
+  --text-primary-light: rgba(0, 0, 0, 0.815);
+  --text-primary-dark: #ffffff;
+  --text-secondary-light: #5c6bc0;
+  --text-secondary-dark: #cfcfcf;
+}
+
+.light-mode {
+  background-color: var(--primary-light);
+  color: var(--text-primary-light);
+}
+
+.dark-mode {
+  background-color: var(--primary-dark);
+  color: var(--text-primary-dark);
+}
+
+.dark-mode h5,
+.dark-mode small {
+  color: var(--text-secondary-dark);
+}
+
+.light-mode h5,
+.light-mode small {
+  color: var(--text-secondary-light);
+}

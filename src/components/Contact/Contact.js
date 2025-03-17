@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { ContactWrapper, Email } from "./ContactElements";
+import { ContactWrapper, Email, EmailColor } from "./ContactElements";
 import { MdContentCopy } from "react-icons/md";
 import { IconButton, Tooltip } from "@mui/material";
 import Zoom from "@mui/material/Zoom";
@@ -32,7 +32,7 @@ function Contact() {
                   justifyContent: "center",
                 }}
               >
-                <span>daniyalk040@gmail.com</span>
+                <EmailColor>daniyalk040@gmail.com</EmailColor>
                 <Tooltip
                   PopperProps={{
                     disablePortal: true,

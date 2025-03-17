@@ -28,3 +28,7 @@ export const Email = styled.div`
     }
   }
 `;
+
+export const EmailColor = styled.span`
+  color: rgba(0, 0, 0, 0.815);
+`;

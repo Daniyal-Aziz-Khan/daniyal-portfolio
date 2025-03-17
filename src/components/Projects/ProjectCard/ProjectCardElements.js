@@ -46,7 +46,6 @@ export const CardRight = styled.div`
     max-width: 95%;
     margin-top: 10px;
     margin-bottom: 1rem;
-    color: rgba(0, 0, 0, 0.815);
     text-align: center;
 
     @media (min-width: 992px) {

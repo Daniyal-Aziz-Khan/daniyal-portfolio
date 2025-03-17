@@ -1,10 +1,13 @@
 import React, { useEffect, useState } from "react";
 import { Bars } from "./HeaderElements";
-import { Row } from "react-bootstrap";
+import { Button, Row } from "react-bootstrap";
 import "./Header.css";
+import { useThemeContext } from "../ThemeSetting/ThemeSettings";
+import { FaMoon, FaSun } from "react-icons/fa";
 
 const Header = ({ toggle }) => {
   const [scrolled, setScrolled] = useState(false);
+  const { darkMode, toggleTheme } = useThemeContext();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -63,6 +66,12 @@ const Header = ({ toggle }) => {
               title="Download"
             >
               Resume
+            </a>
+            <a className={`menu-item ${scrolled ? "menu-item-color" : ""} `}>
+              {/* Theme Toggle Button */}
+              <span onClick={toggleTheme} style={{ marginTop: "3px" }}>
+                {darkMode ? <FaMoon /> : <FaSun />}
+              </span>
             </a>
           </div>
         </div>
