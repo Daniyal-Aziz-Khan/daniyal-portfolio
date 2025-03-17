@@ -108,10 +108,10 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
   },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
-    name: "NodeJS",
-  },
+  // {
+  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
+  //   name: "NodeJS",
+  // },
   // {
   //   img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbr9_FPP5arS9Oa8yJhMTKLKySje0JhmjhZKyEvGgPS0Av-mxLgKzIGbhkzIGf_5dAmGM&usqp=CAU",
   //   name: "NextJS",
